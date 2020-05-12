@@ -1,0 +1,38 @@
+/** HEADER **/
+#header-nav {
+  background-color: #D3D3D3;
+  border-radius: 0;
+  border: 0;
+color: black;
+}
+
+p
+{
+  font-size: 30px;
+  color: black;
+}
+li{
+
+   font-size: 10px;
+  color: black;
+  text-align: center;
+  background-color: white;
+  border: 1.5px;
+  border-color: black;
+  border: solid;
+}
+h1{
+  color: black;
+  text-align: center;
+}
+h3{
+  color: black;
+  text-align: center;
+}
+#main-content{
+  padding: 10px;
+  font-size: 15px; 
+background-color: #D3D3D3;
+  color: black;
+}
+
